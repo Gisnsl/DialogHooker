@@ -65,13 +65,12 @@ AppClasses:
 
 ### **[Join My Telegram Channel](https://t.me/maho_s9)**
 
-<a href="https://t.me/maho_s9">
+<a href="https://t.me/+f6t2_zdHrFRjYWE8">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30" />
 </a>
 
-Stay updated with more tools, guides, and powerful Android hacking content!
+Stay updated with more tools, guides, and powerful Android hooking content!
 
 ---
 
-> Made with passion by **maho_s9**
-
+> Made with passion by **@maho_s9**
